@@ -42,6 +42,82 @@ data.head()
 
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>est_diameter_min</th>
+      <th>est_diameter_max</th>
+      <th>relative_velocity</th>
+      <th>miss_distance</th>
+      <th>absolute_magnitude</th>
+      <th>hazardous</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1.198271</td>
+      <td>2.679415</td>
+      <td>13569.249224</td>
+      <td>5.483974e+07</td>
+      <td>16.73</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>0.265800</td>
+      <td>0.594347</td>
+      <td>73588.726663</td>
+      <td>6.143813e+07</td>
+      <td>20.00</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>0.722030</td>
+      <td>1.614507</td>
+      <td>114258.692129</td>
+      <td>4.979872e+07</td>
+      <td>17.83</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>0.096506</td>
+      <td>0.215794</td>
+      <td>24764.303138</td>
+      <td>2.543497e+07</td>
+      <td>22.20</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0.255009</td>
+      <td>0.570217</td>
+      <td>42737.733765</td>
+      <td>4.627557e+07</td>
+      <td>20.09</td>
+      <td>True</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 
