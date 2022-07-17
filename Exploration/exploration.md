@@ -139,7 +139,7 @@ for i in feature.columns:
 
 
     
-![png](output_6_0.png)
+![png](https://github.com/Hg03/HazardousPredition/blob/main/Images/output_6_0.png)
     
 
 
@@ -162,7 +162,7 @@ plt.pie(data = hazard[1],labels = hazard[0],explode=(0.1,0.1),x=hazard[1])
 
 
     
-![png](output_7_1.png)
+![png](https://github.com/Hg03/HazardousPredition/blob/main/Images/output_7_1.png)
     
 
 
@@ -180,7 +180,7 @@ sns.pairplot(data,hue='hazardous')
 
 
     
-![png](output_8_1.png)
+![png](https://github.com/Hg03/HazardousPredition/blob/main/Images/output_8_1.png)
     
 
 
